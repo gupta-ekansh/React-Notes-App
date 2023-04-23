@@ -1,4 +1,17 @@
-<h1>React Notes App <img src = "https://cdn.iconscout.com/icon/free/png-512/free-apple-notes-493153.png?f=avif&w=256"></h1>
+<h1>React Notes App <img src = "https://cdn.iconscout.com/icon/free/png-512/free-apple-notes-493153.png?f=avif&w=256" width = "50" height = "50"></h1>
+
+<a href = "https://thunderous-jalebi-375553.netlify.app/">Live Link</a>
+
+<h2>Key Features</h2>
+<ul>
+  <li>Add a new Note</li>
+  <li>Delete a Note</li>
+  <li>Get the date when the note was added</li>
+  <li>Searching feature in notes</li>
+  <li>Word Limit on Notes</li>
+  <li>Toggling between light and dark mode</li>
+  <li>Saving your Notes in local storage</li>
+</ul>
 
 
 
